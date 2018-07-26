@@ -1,6 +1,8 @@
 ﻿datavisualization
 
-run the container with: 
+First enable docker for linux. 
+
+Then run the container with: 
 
 docker run --name graphviz -p 5000:5000 danielhbnl/datavisualization:1.0.0
 
